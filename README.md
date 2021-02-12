@@ -1,1 +1,2 @@
-# performanceTest
+# Performance Test
+run: performanceTest.py
